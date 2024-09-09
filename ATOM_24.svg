@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="ATOM_24.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="71.687509"
+     inkscape:cx="8.0069737"
+     inkscape:cy="4.6521354"
+     inkscape:window-width="3440"
+     inkscape:window-height="1361"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1"
+     showgrid="false" />
+  <defs
+     id="defs1" />
+  <g
+     id="layer1">
+    <path
+       id="rect1"
+       style="fill:#1a1a1a;stroke-width:1.07098"
+       d="M 0,9.1037006 V 15.236966 A 0.763034,0.763034 45 0 0 0.763034,16 H 15.071001 A 0.92899888,0.92899888 135 0 0 16,15.071001 V 9.1267992 A 0.60336166,0.60336166 45 0 0 15.396638,8.5234375 H 14.62756 A 0.62529218,0.62529218 135.4363 0 0 14.00234,9.139207 l -0.04662,3.061023 a 0.43329636,0.43329636 135.4363 0 1 -0.433246,0.426698 H 2.4775283 A 0.43329636,0.43329636 44.5637 0 1 2.0442822,12.20023 l -0.0466,-3.059553 A 0.62678494,0.62678494 44.5637 0 0 1.3709701,8.5234375 H 0.58026305 A 0.58026305,0.58026305 135 0 0 0,9.1037006 Z"
+       transform="matrix(1,0,0,0.73667712,0,4.2131661)" />
+    <path
+       id="rect4"
+       style="fill:#999999;stroke-width:0.979833"
+       d="m 6.9895781,4.785 c -0.1865304,0 -0.3356033,0.1724632 -0.3356033,0.3866975 v 2.6912752 l -2.4586591,0.00169 C 4.0199136,7.8578232 3.8002641,7.8629727 3.5605878,8.0796873 3.1431,8.4765746 3.1591,9.1151515 3.5934184,9.5154964 l 3.6642772,3.3797016 c 0.434319,0.400344 1.1200858,0.400274 1.5375739,0.0035 L 12.43766,9.4357299 C 12.855148,9.0388414 12.842797,8.3967965 12.408477,7.9964519 12.261204,7.9136872 12.091375,7.8689221 11.848531,7.8577264 l -2.5024344,0.00178 V 5.1716975 C 9.3460966,4.9574632 9.1970236,4.785 9.0104933,4.785 Z" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-stretch:condensed;font-size:6.58171px;font-family:Arial;-inkscape-font-specification:'Arial Bold Condensed';fill:#1a1a1a;stroke-width:1.23407"
+       x="4.5840989e-16"
+       y="4.7916665"
+       id="text9"
+       transform="scale(1.0654059,0.93860945)"><tspan
+         id="tspan9"
+         x="4.5840989e-16"
+         y="4.7916665"
+         style="stroke-width:1.23407">ATOM</tspan></text>
+  </g>
+</svg>
